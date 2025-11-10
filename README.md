@@ -1,0 +1,1 @@
+# alight-mcp-prompt
